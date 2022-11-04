@@ -10,6 +10,19 @@ html {
     scroll-behavior: smooth;
 
 }
+
+/* Below are the decoations for the anchor tag */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Below are the decoations for the paragraphs */
+
+p {
+    font-size: 16px;
+}
 /* Below is the colour of the body background */
 
 body {
@@ -51,18 +64,6 @@ body {
     margin-left: 25px;
 }
 
-/* Below are the decoations for the anchor tag */
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* Below are the decoations for the paragraphs */
-
-p {
-    font-size: 16px;
-}
 
 /* Below are the decoations for individual and combined properties */
 
